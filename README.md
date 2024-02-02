@@ -31,7 +31,7 @@ Load and understand your data.
 Building your first model. Hurray!
 
 4. [Model Validation](https://github.com/federicobrancasi/KaggleCourses/blob/main/Intro%20to%20Machine%20Learning/4.%20Model%20Validation.ipynb)  
-Measure the performance of your model ? so you can test and compare alternatives.
+Measure the performance of your model, so you can test and compare alternatives.
 
 1. [Underfitting and Overfitting](https://github.com/federicobrancasi/KaggleCourses/blob/main/Intro%20to%20Machine%20Learning/5.%20Underfitting%20and%20Overfitting.ipynb)  
 Fine-tune your model for better performance.
