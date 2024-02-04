@@ -11,6 +11,7 @@ Each exercise in this repository reflects my commitment to mastering the fundame
 - [Intro to Machine Learning](#intro-to-machine-learning)
 - [Pandas](#pandas)
 - [Intermediate Machine Learning](#intermediate-machine-learning)
+- [Data Visualization](#data-visualization)
   
 Each folder contains detailed exercises, solutions and annotations created during the learning journey. I hope this collection will be inspiring and helpful to anyone who wants to dive into the fascinating world of data science and machine learning.
 
@@ -99,4 +100,32 @@ Find and fix this problem that ruins your model in subtle ways.
 #### Certificate
 |<a href="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intermediate%20Machine%20Learning/Federico%20Brancasi%20-%20Intermediate%20Machine%20Learning%20-%20Certificate.png"><img src="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intermediate%20Machine%20Learning/Federico%20Brancasi%20-%20Intermediate%20Machine%20Learning%20-%20Certificate.png" alt="Illustration" width="400px"/></a>|
 |:--:|
-|Pandas - Certificate|
+|Intermediate Machine Learning - Certificate|
+
+## Data Visualization
+
+1. [Hello, Seaborn](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Data%20Visualization/1.%20Seaborn.ipynb)   
+Your first introduction to coding for data visualization.
+
+2. [Line Charts](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Data%20Visualization/2.%20Line%20Charts.ipynb)  
+Visualize trends over time.
+
+3. [Bar Charts and Heatmaps](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Data%20Visualization/3.%20Bar%20Charts%20and%20Heatmaps.ipynb)   
+Use color or length to compare categories in a dataset.
+
+4. [Scatter Plots](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Data%20Visualization/4.%20Scatter%20Plots.ipynb)  
+Leverage the coordinate plane to explore relationships between variables.
+
+5. [Distributions](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Data%20Visualization/5.%20Distributions.ipynb)  
+Create histograms and density plots.
+
+6. [Choosing Plot Types and Custom Styles](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Data%20Visualization/6.%20Choosing%20Plot%20Types%20and%20Custom%20Styles.ipynb)  
+Customize your charts and make them look snazzy.
+
+7. [Final Project](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Data%20Visualization/7.%20Final%20Project.ipynb)  
+Practice for real-world application.
+
+#### Certificate
+|<a href="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Data%20Visualization/Federico%20Brancasi%20-%20Data%20Visualization%20-%20Certificate.png"><img src="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Data%20Visualization/Federico%20Brancasi%20-%20Data%20Visualization%20-%20Certificate.png" alt="Illustration" width="400px"/></a>|
+|:--:|
+|Data Visualization - Certificate|
