@@ -10,6 +10,7 @@ Each exercise in this repository reflects my commitment to mastering the fundame
 
 - [Intro to Machine Learning](#intro-to-machine-learning)
 - [Pandas](#pandas)
+- [Intermediate Machine Learning](#intermediate-machine-learning)
   
 Each folder contains detailed exercises, solutions and annotations created during the learning journey. I hope this collection will be inspiring and helpful to anyone who wants to dive into the fascinating world of data science and machine learning.
 
@@ -69,5 +70,33 @@ Deal with the most common progress-blocking problems.
 
 #### Certificate
 |<a href="https://github.com/federicobrancasi/KaggleCourses/blob/main/Pandas/Federico%20Brancasi%20-%20Pandas%20-%20Certificate.png"><img src="https://github.com/federicobrancasi/KaggleCourses/blob/main/Pandas/Federico%20Brancasi%20-%20Pandas%20-%20Certificate.png" alt="Illustration" width="400px"/></a>|
+|:--:|
+|Pandas - Certificate|
+
+## Intermediate Machine Learning
+
+1. [Introduction](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intermediate%20Machine%20Learning/1.%20Introduction.ipynb)   
+Review what you need for this Micro-Course.
+
+2. [Missing Values](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intermediate%20Machine%20Learning/2.%20Missing%20Values.ipynb)  
+Missing values happen. Be prepared for this common challenge in real datasets.
+
+3. [Categorical Variables](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intermediate%20Machine%20Learning/3.%20Categorical%20Variables.ipynb)   
+There's a lot of non-numeric data out there. Here's how to use it for machine learning.
+
+4. [Pipelines](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intermediate%20Machine%20Learning/4.%20Pipelines.ipynb)  
+A critical skill for deploying (and even testing) complex models with pre-processing.
+
+5. [Cross-Validation](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intermediate%20Machine%20Learning/5.%20Cross-Validation.ipynb)  
+A better way to test your models.
+
+6. [XGBoost](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intermediate%20Machine%20Learning/6.%20XGBoost.ipynb)  
+The most accurate modeling technique for structured data.
+
+7. [Data Leakage](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intermediate%20Machine%20Learning/7.%20Data%20Leakage.ipynb)  
+Find and fix this problem that ruins your model in subtle ways.
+
+#### Certificate
+|<a href="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intermediate%20Machine%20Learning/Federico%20Brancasi%20-%20Intermediate%20Machine%20Learning%20-%20Certificate.png"><img src="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intermediate%20Machine%20Learning/Federico%20Brancasi%20-%20Intermediate%20Machine%20Learning%20-%20Certificate.png" alt="Illustration" width="400px"/></a>|
 |:--:|
 |Pandas - Certificate|
