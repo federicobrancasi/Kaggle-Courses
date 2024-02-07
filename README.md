@@ -13,6 +13,7 @@ Each exercise in this repository reflects my commitment to mastering the fundame
 - [Intermediate Machine Learning](#intermediate-machine-learning)
 - [Data Visualization](#data-visualization)
 - [Feature Engineering](#feature-engineering)
+- [Intro to SQL](#intro-to-sql)
   
 Each folder contains detailed exercises, solutions and annotations created during the learning journey. I hope this collection will be inspiring and helpful to anyone who wants to dive into the fascinating world of data science and machine learning.
 
@@ -153,5 +154,30 @@ Boost any categorical feature with this powerful technique.
 
 #### Certificate
 |<a href="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Feature%20Engineering/Federico%20Brancasi%20-%20Feature%20Engineering%20-%20Certificate.png"><img src="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Feature%20Engineering/Federico%20Brancasi%20-%20Feature%20Engineering%20-%20Certificate.png" alt="Illustration" width="400px"/></a>|
+|:--:|
+|Feature Engineering - Certificate|
+
+## Intro to SQL
+
+1. [Getting Started With SQL and BigQuery](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intro%20to%20SQL/1.%20Getting%20Started%20With%20SQL%20and%20BigQuery.ipynb)   
+Learn the workflow for handling big datasets with BigQuery and SQL.
+
+2. [Select, From & Where](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intro%20to%20SQL/2.%20Select%2C%20From%20%26%20Where.ipynb)  
+The foundational compontents for all SQL queries.
+
+3. [Group By, Having & Count](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intro%20to%20SQL/3.%20Group%20By%2C%20Having%20%26%20Count.ipynb)   
+Get more interesting insights directly from your SQL queries.
+
+4. [Order By](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intro%20to%20SQL/4.%20Order%20By.ipynb)  
+Order your results to focus on the most important data for your use case.
+
+5. [As & With](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intro%20to%20SQL/5.%20As%20%26%20With.ipynb)  
+Organize your query for better readability. This becomes especially important for complex queries.
+
+6. [Joining Data](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intro%20to%20SQL/6.%20Joining%20Data.ipynb)  
+Combine data sources. Critical for almost all real-world data problems.
+
+#### Certificate
+|<a href="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intro%20to%20SQL/Federico%20Brancasi%20-%20Intro%20to%20SQL%20-%20Certificate.png"><img src="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intro%20to%20SQL/Federico%20Brancasi%20-%20Intro%20to%20SQL%20-%20Certificate.png" alt="Illustration" width="400px"/></a>|
 |:--:|
 |Feature Engineering - Certificate|
