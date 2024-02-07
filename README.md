@@ -12,6 +12,7 @@ Each exercise in this repository reflects my commitment to mastering the fundame
 - [Pandas](#pandas)
 - [Intermediate Machine Learning](#intermediate-machine-learning)
 - [Data Visualization](#data-visualization)
+- [Feature Engineering](#feature-engineering)
   
 Each folder contains detailed exercises, solutions and annotations created during the learning journey. I hope this collection will be inspiring and helpful to anyone who wants to dive into the fascinating world of data science and machine learning.
 
@@ -129,3 +130,28 @@ Practice for real-world application.
 |<a href="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Data%20Visualization/Federico%20Brancasi%20-%20Data%20Visualization%20-%20Certificate.png"><img src="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Data%20Visualization/Federico%20Brancasi%20-%20Data%20Visualization%20-%20Certificate.png" alt="Illustration" width="400px"/></a>|
 |:--:|
 |Data Visualization - Certificate|
+
+## Feature Engineering
+
+1. [What Is Feature Engineering](https://www.kaggle.com/code/ryanholbrook/what-is-feature-engineering)   
+Learn the steps and principles of creating better features
+
+2. [Mutual Information](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Feature%20Engineering/2.%20Mutual%20Information.ipynb)   
+Locate features with the most potential.
+
+3. [Creating Features](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Feature%20Engineering/3.%20Creating%20Features.ipynb)   
+Transform features with Pandas to suit your model.
+
+4. [Clustering With K-Means](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Feature%20Engineering/4.%20Clustering%20With%20K-Means.ipynb)   
+Untangle complex spatial relationships with cluster labels.
+
+5. [Principal Component Analysis](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Feature%20Engineering/5.%20Principal%20Component%20Analysis.ipynb)   
+Discover new features by analyzing variation.
+
+6. [Target Encoding](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Feature%20Engineering/6.%20Target%20Encoding.ipynb)   
+Boost any categorical feature with this powerful technique.
+
+#### Certificate
+|<a href="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Feature%20Engineering/Federico%20Brancasi%20-%20Feature%20Engineering%20-%20Certificate.png"><img src="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Feature%20Engineering/Federico%20Brancasi%20-%20Feature%20Engineering%20-%20Certificate.png" alt="Illustration" width="400px"/></a>|
+|:--:|
+|Feature Engineering - Certificate|
