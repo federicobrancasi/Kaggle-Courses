@@ -49,7 +49,7 @@ Enter the world of machine learning competitions to keep improving and see your 
 #### Certificate
 |<a href="https://github.com/federicobrancasi/KaggleCourses/blob/main/Intro%20to%20Machine%20Learning/Federico%20Brancasi%20-%20Intro%20to%20Machine%20Learning%20-%20Certificate.png"><img src="https://github.com/federicobrancasi/KaggleCourses/blob/main/Intro%20to%20Machine%20Learning/Federico%20Brancasi%20-%20Intro%20to%20Machine%20Learning%20-%20Certificate.png" alt="Illustration" width="400px"/></a>|
 |:--:|
-|Pandas - Certificate|
+|Intro to Machine Learning - Certificate|
 
 ## Pandas
 
@@ -180,4 +180,4 @@ Combine data sources. Critical for almost all real-world data problems.
 #### Certificate
 |<a href="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intro%20to%20SQL/Federico%20Brancasi%20-%20Intro%20to%20SQL%20-%20Certificate.png"><img src="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intro%20to%20SQL/Federico%20Brancasi%20-%20Intro%20to%20SQL%20-%20Certificate.png" alt="Illustration" width="400px"/></a>|
 |:--:|
-|Feature Engineering - Certificate|
+|Intro to SQL - Certificate|
