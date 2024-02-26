@@ -17,6 +17,7 @@ Each exercise in this repository reflects my commitment to mastering the fundame
 - [Advanced SQL](#advanced-sql)
 - [Intro to Deep Learning](#intro-to-deep-learning)
 - [Computer Vision](#computer-vision)
+- [Time Series](#time-series)
   
 Each folder contains detailed exercises, solutions and annotations created during the learning journey. I hope this collection will be inspiring and helpful to anyone who wants to dive into the fascinating world of data science and machine learning.
 
@@ -253,3 +254,28 @@ Boost performance by creating extra training data.
 |<a href="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Computer%20Vision/Federico%20Brancasi%20-%20Computer%20Vision%20-%20Certificate.png"><img src="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Computer%20Vision/Federico%20Brancasi%20-%20Computer%20Vision%20-%20Certificate.png" width="400px"/></a>|
 |:--:|
 |Computer Vision - Certificate|
+
+## Time Series
+
+1. [Linear Regression With Time Series](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Time%20Series/1.%20Linear%20Regression%20With%20Time%20Series.ipynb)   
+Use two features unique to time series: lags and time steps.
+
+2. [Trend](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Time%20Series/2.%20Trend.ipynb)   
+Model long-term changes with moving averages and the time dummy.
+
+3. [Seasonality](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Time%20Series/3.%20Seasonality.ipynb)   
+Create indicators and Fourier features to capture periodic change.
+
+4. [Time Series as Features](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Time%20Series/4.%20Time%20Series%20as%20Features.ipynb)   
+Predict the future from the past with a lag embedding.
+
+5. [Hybrid Models](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Time%20Series/5.%20Hybrid%20Models.ipynb)   
+Combine the strengths of two forecasters with this powerful technique.
+
+6. [Forecasting With Machine Learning](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Time%20Series/6.%20Forecasting%20With%20Machine%20Learning.ipynb)   
+Apply ML to any forecasting task with these four strategies.
+
+#### Certificate
+|<a href="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Time%20Series/Federico%20Brancasi%20-%20Time%20Series%20-%20Certificate.png"><img src="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Time%20Series/Federico%20Brancasi%20-%20Time%20Series%20-%20Certificate.png" width="400px"/></a>|
+|:--:|
+|Time Series - Certificate|
