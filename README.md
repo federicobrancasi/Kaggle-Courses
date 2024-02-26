@@ -15,6 +15,7 @@ Each exercise in this repository reflects my commitment to mastering the fundame
 - [Feature Engineering](#feature-engineering)
 - [Intro to SQL](#intro-to-sql)
 - [Advanced SQL](#advanced-sql)
+- [Intro to Deep Learning](#intro-to-deep-learning)
   
 Each folder contains detailed exercises, solutions and annotations created during the learning journey. I hope this collection will be inspiring and helpful to anyone who wants to dive into the fascinating world of data science and machine learning.
 
@@ -201,3 +202,28 @@ Write queries to run faster and use less data.
 |<a href="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Advanced%20SQL/Federico%20Brancasi%20-%20Advanced%20SQL%20-%20Certificate.png"><img src="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Advanced%20SQL/Federico%20Brancasi%20-%20Advanced%20SQL%20-%20Certificate.png" width="400px"/></a>|
 |:--:|
 |Advances SQL - Certificate|
+
+## Intro to Deep Learning
+
+1. [A Single Neuron](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intro%20to%20Deep%20Learning/1.%20A%20Single%20Neuron.ipynb)   
+Learn about linear units, the building blocks of deep learning.
+
+2. [Deep Neural Networks](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intro%20to%20Deep%20Learning/2.%20Deep%20Neural%20Networks.ipynb)   
+Add hidden layers to your network to uncover complex relationships.
+
+3. [Stochastic Gradient Descent](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intro%20to%20Deep%20Learning/3.%20Stochastic%20Gradient%20Descent.ipynb)   
+Use Keras and Tensorflow to train your first neural network.
+
+4. [Overfitting and Underfitting](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intro%20to%20Deep%20Learning/4.%20Overfitting%20and%20Underfitting.ipynb)   
+Improve performance with extra capacity or early stopping.
+
+5. [Dropout and Batch Normalization](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intro%20to%20Deep%20Learning/5.%20Dropout%20and%20Batch%20Normalization.ipynb)   
+Add these special layers to prevent overfitting and stabilize training.
+
+6. [Binary Classification](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intro%20to%20Deep%20Learning/6.%20Binary%20Classification.ipynb)   
+Apply deep learning to another common task.
+
+#### Certificate
+|<a href="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intro%20to%20Deep%20Learning/Federico%20Brancasi%20-%20Intro%20to%20Deep%20Learning%20-%20Certificate.png"><img src="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intro%20to%20Deep%20Learning/Federico%20Brancasi%20-%20Intro%20to%20Deep%20Learning%20-%20Certificate.png" width="400px"/></a>|
+|:--:|
+|Intro to Deep Learning - Certificate|
