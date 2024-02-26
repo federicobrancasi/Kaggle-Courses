@@ -14,6 +14,7 @@ Each exercise in this repository reflects my commitment to mastering the fundame
 - [Data Visualization](#data-visualization)
 - [Feature Engineering](#feature-engineering)
 - [Intro to SQL](#intro-to-sql)
+- [Advanced SQL](#advanced-sql)
   
 Each folder contains detailed exercises, solutions and annotations created during the learning journey. I hope this collection will be inspiring and helpful to anyone who wants to dive into the fascinating world of data science and machine learning.
 
@@ -181,3 +182,22 @@ Combine data sources. Critical for almost all real-world data problems.
 |<a href="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intro%20to%20SQL/Federico%20Brancasi%20-%20Intro%20to%20SQL%20-%20Certificate.png"><img src="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intro%20to%20SQL/Federico%20Brancasi%20-%20Intro%20to%20SQL%20-%20Certificate.png" alt="Illustration" width="400px"/></a>|
 |:--:|
 |Intro to SQL - Certificate|
+
+## Advanced SQL
+
+1. [JOINs and UNIONs](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Advanced%20SQL/1.%20JOINs%20and%20UNIONs.ipynb)   
+Combine information from multiple tables.
+
+2. [Analytic Functions](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Advanced%20SQL/2.%20Analytic%20Functions.ipynb)  
+Perform complex calculations on groups of rows.
+
+3. [Nested and Repeated Data](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Advanced%20SQL/3.%20Nested%20and%20Repeated%20Data.ipynb)   
+Learn to query complex datatypes in BigQuery.
+
+4. [Writing Efficient Queries](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Advanced%20SQL/4.%20Writing%20Efficient%20Queries.ipynb)  
+Write queries to run faster and use less data.
+
+#### Certificate
+|<a href="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Advanced%20SQL/Federico%20Brancasi%20-%20Advanced%20SQL%20-%20Certificate.png"><img src="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Advanced%20SQL/Federico%20Brancasi%20-%20Advanced%20SQL%20-%20Certificate.png" width="400px"/></a>|
+|:--:|
+|Advances SQL - Certificate|
