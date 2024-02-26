@@ -16,6 +16,7 @@ Each exercise in this repository reflects my commitment to mastering the fundame
 - [Intro to SQL](#intro-to-sql)
 - [Advanced SQL](#advanced-sql)
 - [Intro to Deep Learning](#intro-to-deep-learning)
+- [Computer Vision](#computer-vision)
   
 Each folder contains detailed exercises, solutions and annotations created during the learning journey. I hope this collection will be inspiring and helpful to anyone who wants to dive into the fascinating world of data science and machine learning.
 
@@ -227,3 +228,28 @@ Apply deep learning to another common task.
 |<a href="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intro%20to%20Deep%20Learning/Federico%20Brancasi%20-%20Intro%20to%20Deep%20Learning%20-%20Certificate.png"><img src="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intro%20to%20Deep%20Learning/Federico%20Brancasi%20-%20Intro%20to%20Deep%20Learning%20-%20Certificate.png" width="400px"/></a>|
 |:--:|
 |Intro to Deep Learning - Certificate|
+
+## Computer Vision
+
+1. [The Convolutional Classifier](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Computer%20Vision/1.%20The%20Convolutional%20Classifier.ipynb)   
+Create your first computer vision model with Keras.
+
+2. [Convolution and ReLU](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Computer%20Vision/2.%20Convolution%20and%20ReLU.ipynb)   
+Discover how convnets create features with convolutional layers.
+
+3. [Maximum Pooling](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Computer%20Vision/3.%20Maximum%20Pooling.ipynb)   
+Learn more about feature extraction with maximum pooling.
+
+4. [The Sliding Window](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Computer%20Vision/4.%20The%20Sliding%20Window.ipynb)   
+Explore two important parameters: stride and padding.
+
+5. [Custom Convnets](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Computer%20Vision/5.%20Custom%20Convnets.ipynb)   
+Design your own convnet.
+
+6. [Data Augmentation](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Computer%20Vision/6.%20Data%20Augmentation.ipynb)   
+Boost performance by creating extra training data.
+
+#### Certificate
+|<a href="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Computer%20Vision/Federico%20Brancasi%20-%20Computer%20Vision%20-%20Certificate.png"><img src="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Computer%20Vision/Federico%20Brancasi%20-%20Computer%20Vision%20-%20Certificate.png" width="400px"/></a>|
+|:--:|
+|Computer Vision - Certificate|
