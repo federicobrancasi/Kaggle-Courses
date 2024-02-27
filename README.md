@@ -19,6 +19,7 @@ Each exercise in this repository reflects my commitment to mastering the fundame
 - [Computer Vision](#computer-vision)
 - [Time Series](#time-series)
 - [Data Cleaning](#data-cleaning)
+- [Intro to AI Ethics](#intro-to-ai-ethics)
   
 Each folder contains detailed exercises, solutions and annotations created during the learning journey. I hope this collection will be inspiring and helpful to anyone who wants to dive into the fascinating world of data science and machine learning.
 
@@ -302,3 +303,25 @@ Efficiently fix typos in your data.
 |<a href="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Data%20Cleaning/Federico%20Brancasi%20-%20Data%20Cleaning%20-%20Certificate.png"><img src="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Data%20Cleaning/Federico%20Brancasi%20-%20Data%20Cleaning%20-%20Certificate.png" width="400px"/></a>|
 |:--:|
 |Data Cleaning - Certificate|
+
+## Intro to AI Ethics
+
+1. [Introduction to AI Ethics](https://www.kaggle.com/code/var0101/introduction-to-ai-ethics)   
+Learn what to expect from the course.
+
+2. [Human-Centered Design for AI](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intro%20to%20AI%20Ethics/2.%20Human-Centered%20Design%20for%20AI.ipynb)   
+Design systems that serve people’s needs.  Navigate issues in several real-world scenarios.
+
+3. [Identifying Bias in AI](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intro%20to%20AI%20Ethics/3.%20Identifying%20Bias%20in%20AI.ipynb)   
+Bias can creep in at any stage in the pipeline. Investigate a simple model that identifies toxic text.
+
+4. [AI Fairness](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intro%20to%20AI%20Ethics/4.%20AI%20Fairness.ipynb)   
+Learn about four different types of fairness.  Assess a toy model trained to judge credit card applications.
+
+5. [Model Cards](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intro%20to%20AI%20Ethics/5.%20Model%20Cards.ipynb)   
+Increase transparency by communicating key information about machine learning models.
+
+#### Certificate
+|<a href="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intro%20to%20AI%20Ethics/Federico%20Brancasi%20-%20Intro%20to%20AI%20Ethics%20-%20Certificate.png"><img src="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intro%20to%20AI%20Ethics/Federico%20Brancasi%20-%20Intro%20to%20AI%20Ethics%20-%20Certificate.png" width="400px"/></a>|
+|:--:|
+|Intro to AI Ethics - Certificate|
