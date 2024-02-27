@@ -18,6 +18,7 @@ Each exercise in this repository reflects my commitment to mastering the fundame
 - [Intro to Deep Learning](#intro-to-deep-learning)
 - [Computer Vision](#computer-vision)
 - [Time Series](#time-series)
+- [Data Cleaning](#data-cleaning)
   
 Each folder contains detailed exercises, solutions and annotations created during the learning journey. I hope this collection will be inspiring and helpful to anyone who wants to dive into the fascinating world of data science and machine learning.
 
@@ -203,7 +204,7 @@ Write queries to run faster and use less data.
 #### Certificate
 |<a href="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Advanced%20SQL/Federico%20Brancasi%20-%20Advanced%20SQL%20-%20Certificate.png"><img src="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Advanced%20SQL/Federico%20Brancasi%20-%20Advanced%20SQL%20-%20Certificate.png" width="400px"/></a>|
 |:--:|
-|Advances SQL - Certificate|
+|Advanced SQL - Certificate|
 
 ## Intro to Deep Learning
 
@@ -279,3 +280,25 @@ Apply ML to any forecasting task with these four strategies.
 |<a href="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Time%20Series/Federico%20Brancasi%20-%20Time%20Series%20-%20Certificate.png"><img src="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Time%20Series/Federico%20Brancasi%20-%20Time%20Series%20-%20Certificate.png" width="400px"/></a>|
 |:--:|
 |Time Series - Certificate|
+
+## Data Cleaning
+
+1. [Handling Missing Values](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Data%20Cleaning/1.%20Handling%20Missing%20Values.ipynb)   
+Drop missing values, or fill them in with an automated workflow.
+
+2. [Scaling and Normalization](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Data%20Cleaning/2.%20Scaling%20and%20Normalization.ipynb)   
+Transform numeric variables to have helpful properties.
+
+3. [Parsing Dates](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Data%20Cleaning/3.%20Parsing%20Dates.ipynb)   
+Help Python recognize dates as composed of day, month, and year.
+
+4. [Character Encodings](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Data%20Cleaning/4.%20Character%20Encodings.ipynb)   
+Avoid UnicodeDecodeErrors when loading CSV files.
+
+5. [Inconsistent Data Entry](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Data%20Cleaning/5.%20Inconsistent%20Data%20Entry.ipynb)   
+Efficiently fix typos in your data.
+
+#### Certificate
+|<a href="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Data%20Cleaning/Federico%20Brancasi%20-%20Data%20Cleaning%20-%20Certificate.png"><img src="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Data%20Cleaning/Federico%20Brancasi%20-%20Data%20Cleaning%20-%20Certificate.png" width="400px"/></a>|
+|:--:|
+|Data Cleaning - Certificate|
