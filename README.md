@@ -20,6 +20,7 @@ Each exercise in this repository reflects my commitment to mastering the fundame
 - [Time Series](#time-series)
 - [Data Cleaning](#data-cleaning)
 - [Intro to AI Ethics](#intro-to-ai-ethics)
+- [Geospatial Analysis](#geospatial-analysis)
   
 Each folder contains detailed exercises, solutions and annotations created during the learning journey. I hope this collection will be inspiring and helpful to anyone who wants to dive into the fascinating world of data science and machine learning.
 
@@ -325,3 +326,25 @@ Increase transparency by communicating key information about machine learning mo
 |<a href="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intro%20to%20AI%20Ethics/Federico%20Brancasi%20-%20Intro%20to%20AI%20Ethics%20-%20Certificate.png"><img src="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intro%20to%20AI%20Ethics/Federico%20Brancasi%20-%20Intro%20to%20AI%20Ethics%20-%20Certificate.png" width="400px"/></a>|
 |:--:|
 |Intro to AI Ethics - Certificate|
+
+## Geospatial Analysis
+
+1. [Your First Map](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Geospatial%20Analysis/1.%20Your%20First%20Map.ipynb)   
+Get started with plotting in GeoPandas.
+
+2. [Coordinate Reference Systems](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Geospatial%20Analysis/2.%20Coordinate%20Reference%20Systems.ipynb)  
+It's pretty amazing that we can represent the Earth's surface in 2 dimensions!
+
+3. [Interactive Maps](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Geospatial%20Analysis/3.%20Interactive%20Maps.ipynb)   
+Learn how to make interactive heatmaps, choropleth maps, and more!
+
+4. [Manipulating Geospatial Data](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Geospatial%20Analysis/4.%20Manipulating%20Geospatial%20Data.ipynb)  
+Find locations with just the name of a place. And, learn how to join data based on spatial relationships.
+
+5. [Proximity Analysis](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Geospatial%20Analysis/5.%20Proximity%20Analysis.ipynb)  
+Measure distance, and explore neighboring points on a map.
+
+#### Certificate
+|<a href="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Geospatial%20Analysis/Federico%20Brancasi%20-%20Geospatial%20Analysis%20-%20Certificate.png"><img src="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Geospatial%20Analysis/Federico%20Brancasi%20-%20Geospatial%20Analysis%20-%20Certificate.png" width="400px"/></a>|
+|:--:|
+|Geospatial Analysis - Certificate|
