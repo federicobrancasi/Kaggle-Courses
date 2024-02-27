@@ -21,6 +21,7 @@ Each exercise in this repository reflects my commitment to mastering the fundame
 - [Data Cleaning](#data-cleaning)
 - [Intro to AI Ethics](#intro-to-ai-ethics)
 - [Geospatial Analysis](#geospatial-analysis)
+- [Machine Learning Explainability](#machine-learning-explainability)
   
 Each folder contains detailed exercises, solutions and annotations created during the learning journey. I hope this collection will be inspiring and helpful to anyone who wants to dive into the fascinating world of data science and machine learning.
 
@@ -348,3 +349,25 @@ Measure distance, and explore neighboring points on a map.
 |<a href="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Geospatial%20Analysis/Federico%20Brancasi%20-%20Geospatial%20Analysis%20-%20Certificate.png"><img src="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Geospatial%20Analysis/Federico%20Brancasi%20-%20Geospatial%20Analysis%20-%20Certificate.png" width="400px"/></a>|
 |:--:|
 |Geospatial Analysis - Certificate|
+
+## Machine Learning Explainability
+
+1. [Use Cases for Model Insights](https://www.kaggle.com/code/dansbecker/use-cases-for-model-insights)   
+Why and when do you need insights?
+
+2. [Permutation Importance](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Machine%20Learning%20Explainability/2.%20Permutation%20Importance.ipynb)   
+What features does your model think are important?
+
+3. [Partial Plots](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Machine%20Learning%20Explainability/3.%20Partial%20Plots.ipynb)   
+How does each feature affect your predictions?
+
+4. [SHAP Values](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Machine%20Learning%20Explainability/4.%20SHAP%20Values.ipynb)   
+Understand individual predictions.
+
+5. [Advanced Uses of SHAP Values](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Machine%20Learning%20Explainability/5.%20Advanced%20Uses%20of%20SHAP%20Values.ipynb)  
+Aggregate SHAP values for even more detailed model insights.
+
+#### Certificate
+|<a href="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Machine%20Learning%20Explainability/Federico%20Brancasi%20-%20Machine%20Learning%20Explainability%20-%20Certificate.png"><img src="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Machine%20Learning%20Explainability/Federico%20Brancasi%20-%20Machine%20Learning%20Explainability%20-%20Certificate.png" width="400px"/></a>|
+|:--:|
+|Machine Learning Explainability - Certificate|
