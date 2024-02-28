@@ -22,6 +22,7 @@ Each exercise in this repository reflects my commitment to mastering the fundame
 - [Intro to AI Ethics](#intro-to-ai-ethics)
 - [Geospatial Analysis](#geospatial-analysis)
 - [Machine Learning Explainability](#machine-learning-explainability)
+- [Intro to Game AI and Reinforcement Learning](#intro-to-game-ai-and-reinforcement-learning)
   
 Each folder contains detailed exercises, solutions and annotations created during the learning journey. I hope this collection will be inspiring and helpful to anyone who wants to dive into the fascinating world of data science and machine learning.
 
@@ -371,3 +372,22 @@ Aggregate SHAP values for even more detailed model insights.
 |<a href="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Machine%20Learning%20Explainability/Federico%20Brancasi%20-%20Machine%20Learning%20Explainability%20-%20Certificate.png"><img src="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Machine%20Learning%20Explainability/Federico%20Brancasi%20-%20Machine%20Learning%20Explainability%20-%20Certificate.png" width="400px"/></a>|
 |:--:|
 |Machine Learning Explainability - Certificate|
+
+## Intro to Game AI and Reinforcement Learning
+
+1. [Play the Game](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intro%20to%20Game%20AI%20and%20Reinforcement%20Learning/1.%20Play%20the%20Game.ipynb)   
+Write your first game-playing agent.
+
+2. [One-Step Lookahead](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intro%20to%20Game%20AI%20and%20Reinforcement%20Learning/2.%20One-Step%20Lookahead.ipynb)   
+Make your agent smarter with a few simple changes.
+
+3. [N-Step Lookahead](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intro%20to%20Game%20AI%20and%20Reinforcement%20Learning/3.%20N-Step%20Lookahead.ipynb)   
+Use the minimax algorithm to dramatically improve your agent.
+
+4. [Deep Reinforcement Learning](https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intro%20to%20Game%20AI%20and%20Reinforcement%20Learning/4.%20Deep%20Reinforcement%20Learning.ipynb)   
+Explore advanced techniques for creating intelligent agents.
+
+#### Certificate
+|<a href="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intro%20to%20Game%20AI%20and%20Reinforcement%20Learning/Federico%20Brancasi%20-%20Intro%20to%20Game%20AI%20and%20Reinforcement%20Learning%20-%20Certificate.png"><img src="https://github.com/federicobrancasi/Kaggle-Courses/blob/main/Intro%20to%20Game%20AI%20and%20Reinforcement%20Learning/Federico%20Brancasi%20-%20Intro%20to%20Game%20AI%20and%20Reinforcement%20Learning%20-%20Certificate.png" width="400px"/></a>|
+|:--:|
+|Intro to Game AI and Reinforcement Learning - Certificate|
